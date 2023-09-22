@@ -1,0 +1,21 @@
+Using C++ Or Java, Write a program that asks the user for a positive integer value.
+The Program should use a loop to get the sum of all the integers from 1 to n numbers entered
+For example, if the user enters 50, the loop will find the sum of 1,2,3,4. . ., 50
+Bonus: Implement input validation and prevent a negative or non integer number from being entered
+
+C++
+#include <iostream> 
+using namespace std;
+
+int main(){
+
+return 0
+}
+
+
+Java
+import java.util.*
+public class Question{
+public static void main(String [] args){
+
+}
